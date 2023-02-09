@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.form {
+  background-color: oldlace;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  margin: 8px 0;
+  border: none;
+}
+
+button:hover {
+  background-color: green;
+}
+
+input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+}
+
+.data-display {
+  padding: 20px;
+  background-color: lightgrey;
+}
