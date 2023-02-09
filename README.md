@@ -1,8 +1,6 @@
 # cit382-p1
 Created with CodeSandbox
 
-The pu
-
 The purpose of this project is to create a running React web application, and work with the following programming elements:
 
 - Strategize how to solve a problem
